@@ -1,2 +1,4 @@
 #Yuan's Blog
-> Source code for liangyuanruo.github.io
+> Source code for [blog](https://liangyuanruo.github.io). 
+
+Built with [Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll).
